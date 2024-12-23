@@ -167,20 +167,20 @@ Meet the team behind **Undead Assault**! Check out their GitHub profiles for mor
 ## Sources
 
 - **Sprites**:  
-  - [Free Graveyard Platformer Tileset - Game Art 2D](https://www.gameart2d.com)  
-  - [Free Halloween 2D Game Backgrounds - CraftPix.net](https://craftpix.net)  
-  - [Free Green Zone Tileset - CraftPix.net](https://craftpix.net)  
-  - Terryble Knight Assets by ansimuz  
-  - Zombie by IronnButterfly  
+  - [Free Graveyard Platformer Tileset - Game Art 2D](https://www.gameart2d.com/free-graveyard-platformer-tileset.html)  
+  - [Free Halloween 2D Game Backgrounds - CraftPix.net](https://craftpix.net/freebies/free-halloween-2d-game-backgrounds/)  
+  - [Free Green Zone Tileset - CraftPix.net](https://craftpix.net/freebies/free-green-zone-tileset-pixel-art/)  
+  - [Terryble Knight Assets by ansimuz](https://ansimuz.itch.io/terryble-knight-assets)
+  - [Zombie by IronnButterfly](https://ironnbutterfly.itch.io/zombie-sprite)
 
 - **Learning Resources**:  
-  - [2D Scroller UE4 Lesson 1: Setting the Scene](https://www.youtube.com)
+  - [2D Scroller UE4 Lesson 1: Setting the Scene](https://www.youtube.com/watch?v=AEkulrzz6Is&list=PL4vARnfO6MOjqrK5YMI1EwYcZSR7ycD9h&index=1)
   
 - **Error Debugging**:  
-  - Unreal Engine Forum  
-  - Unreal Engine 5.5 Documentation  
+  - [Unreal Engine Forum](https://forums.unrealengine.com/)
+  - [Unreal Engine 5.5 Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-4-27-documentation?application_version=4.27)  
   - [ChatGPT](https://chat.openai.com)  
-  - Stack Overflow
+  - [Stack Overflow](https://stackoverflow.com/)
 
 ---
 
